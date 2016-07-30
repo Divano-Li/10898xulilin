@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="com.hand.Exam4" -Dexec.args="arg0 arg1 arg2"
